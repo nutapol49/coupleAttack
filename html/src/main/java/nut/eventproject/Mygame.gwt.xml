@@ -1,0 +1,11 @@
+<module rename-to='coupleattrack'>
+  <inherits name='playn.PlayN'/>
+  <inherits name='MygameAssets'/>
+
+  <source path='core'/>
+  <source path='html'/>
+
+  <public path="resources" />
+
+  <entry-point class='nut.eventproject.html.MygameHtml'/>
+</module>
